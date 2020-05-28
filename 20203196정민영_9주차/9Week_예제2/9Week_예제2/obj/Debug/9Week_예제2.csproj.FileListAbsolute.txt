@@ -1,0 +1,10 @@
+C:\Users\정민영\Desktop\9Week_예제2\9Week_예제2\bin\Debug\9Week_예제2.exe.config
+C:\Users\정민영\Desktop\9Week_예제2\9Week_예제2\bin\Debug\9Week_예제2.exe
+C:\Users\정민영\Desktop\9Week_예제2\9Week_예제2\bin\Debug\9Week_예제2.pdb
+C:\Users\정민영\Desktop\9Week_예제2\9Week_예제2\obj\Debug\9Week_예제2.csprojAssemblyReference.cache
+C:\Users\정민영\Desktop\9Week_예제2\9Week_예제2\obj\Debug\_9Week_예제2.Form1.resources
+C:\Users\정민영\Desktop\9Week_예제2\9Week_예제2\obj\Debug\_9Week_예제2.Properties.Resources.resources
+C:\Users\정민영\Desktop\9Week_예제2\9Week_예제2\obj\Debug\9Week_예제2.csproj.GenerateResource.cache
+C:\Users\정민영\Desktop\9Week_예제2\9Week_예제2\obj\Debug\9Week_예제2.csproj.CoreCompileInputs.cache
+C:\Users\정민영\Desktop\9Week_예제2\9Week_예제2\obj\Debug\9Week_예제2.exe
+C:\Users\정민영\Desktop\9Week_예제2\9Week_예제2\obj\Debug\9Week_예제2.pdb

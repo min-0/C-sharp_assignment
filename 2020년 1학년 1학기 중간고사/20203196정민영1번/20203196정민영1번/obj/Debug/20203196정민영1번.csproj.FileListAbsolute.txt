@@ -1,0 +1,10 @@
+C:\Users\정민영\Desktop\20203196정민영1번\20203196정민영1번\obj\Debug\20203196정민영1번.csprojAssemblyReference.cache
+C:\Users\정민영\Desktop\20203196정민영1번\20203196정민영1번\obj\Debug\_20203196정민영1번.Form1.resources
+C:\Users\정민영\Desktop\20203196정민영1번\20203196정민영1번\obj\Debug\_20203196정민영1번.Properties.Resources.resources
+C:\Users\정민영\Desktop\20203196정민영1번\20203196정민영1번\obj\Debug\20203196정민영1번.csproj.GenerateResource.cache
+C:\Users\정민영\Desktop\20203196정민영1번\20203196정민영1번\obj\Debug\20203196정민영1번.csproj.CoreCompileInputs.cache
+C:\Users\정민영\Desktop\20203196정민영1번\20203196정민영1번\bin\Debug\20203196정민영1번.exe.config
+C:\Users\정민영\Desktop\20203196정민영1번\20203196정민영1번\bin\Debug\20203196정민영1번.exe
+C:\Users\정민영\Desktop\20203196정민영1번\20203196정민영1번\bin\Debug\20203196정민영1번.pdb
+C:\Users\정민영\Desktop\20203196정민영1번\20203196정민영1번\obj\Debug\20203196정민영1번.exe
+C:\Users\정민영\Desktop\20203196정민영1번\20203196정민영1번\obj\Debug\20203196정민영1번.pdb

@@ -1,0 +1,10 @@
+C:\Users\정민영\Desktop\2Week_예제3\2Week_예제3\bin\Debug\2Week_예제3.exe.config
+C:\Users\정민영\Desktop\2Week_예제3\2Week_예제3\bin\Debug\2Week_예제3.exe
+C:\Users\정민영\Desktop\2Week_예제3\2Week_예제3\bin\Debug\2Week_예제3.pdb
+C:\Users\정민영\Desktop\2Week_예제3\2Week_예제3\obj\Debug\2Week_예제3.csprojAssemblyReference.cache
+C:\Users\정민영\Desktop\2Week_예제3\2Week_예제3\obj\Debug\_2Week_예제3.Form1.resources
+C:\Users\정민영\Desktop\2Week_예제3\2Week_예제3\obj\Debug\_2Week_예제3.Properties.Resources.resources
+C:\Users\정민영\Desktop\2Week_예제3\2Week_예제3\obj\Debug\2Week_예제3.csproj.GenerateResource.cache
+C:\Users\정민영\Desktop\2Week_예제3\2Week_예제3\obj\Debug\2Week_예제3.csproj.CoreCompileInputs.cache
+C:\Users\정민영\Desktop\2Week_예제3\2Week_예제3\obj\Debug\2Week_예제3.exe
+C:\Users\정민영\Desktop\2Week_예제3\2Week_예제3\obj\Debug\2Week_예제3.pdb
