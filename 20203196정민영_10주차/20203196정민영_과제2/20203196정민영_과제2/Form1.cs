@@ -32,6 +32,22 @@ namespace _20203196정민영_과제2
                 if ((i+1) % 2 == 0)
                     label2.Text += "\n\n";
             }
+            int MaxNum = iArray01[0];
+            int MinNum = iArray01[0];
+            int Sum = 0;
+            double Average =0 ;
+            for(int i =0; i < iArray01.Length; i++)
+            {
+                if (MaxNum < iArray01[i])
+                    MaxNum = iArray01[i];
+                if (MinNum > iArray01[i])
+                MinNum = iArray01[i];
+
+                Sum += iArray01[i];
+            }
+            Average = Sum / iArray01.Length;
+            label2.Text += "\n배열값의 최대는 " + MaxNum + "\n배열값의 최소는 " + MinNum;
+            label2.Text += "\n\n" + iArray01.Length + "개 원소 배열 값의 평균은 " + Average;
         }
     }
 }

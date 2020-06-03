@@ -1,0 +1,10 @@
+C:\Users\정민영\Desktop\20203196정민영_과제3\20203196정민영_과제3\obj\Debug\20203196정민영_과제3.csprojAssemblyReference.cache
+C:\Users\정민영\Desktop\20203196정민영_과제3\20203196정민영_과제3\obj\Debug\_20203196정민영_과제3.Form1.resources
+C:\Users\정민영\Desktop\20203196정민영_과제3\20203196정민영_과제3\obj\Debug\_20203196정민영_과제3.Properties.Resources.resources
+C:\Users\정민영\Desktop\20203196정민영_과제3\20203196정민영_과제3\obj\Debug\20203196정민영_과제3.csproj.GenerateResource.cache
+C:\Users\정민영\Desktop\20203196정민영_과제3\20203196정민영_과제3\obj\Debug\20203196정민영_과제3.csproj.CoreCompileInputs.cache
+C:\Users\정민영\Desktop\20203196정민영_과제3\20203196정민영_과제3\bin\Debug\20203196정민영_과제3.exe.config
+C:\Users\정민영\Desktop\20203196정민영_과제3\20203196정민영_과제3\bin\Debug\20203196정민영_과제3.exe
+C:\Users\정민영\Desktop\20203196정민영_과제3\20203196정민영_과제3\bin\Debug\20203196정민영_과제3.pdb
+C:\Users\정민영\Desktop\20203196정민영_과제3\20203196정민영_과제3\obj\Debug\20203196정민영_과제3.exe
+C:\Users\정민영\Desktop\20203196정민영_과제3\20203196정민영_과제3\obj\Debug\20203196정민영_과제3.pdb
