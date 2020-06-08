@@ -13,7 +13,7 @@ namespace _20203196정민영_과제3
     public partial class Form1 : Form
     {
         int Win = 0;
-        int Drew = 0;
+        int Draw = 0;
         int Lose = 0;
         public Form1()
         {
@@ -47,34 +47,99 @@ namespace _20203196정민영_과제3
                     System.Random ranNum = new System.Random();
                     int System_num = ranNum.Next(1, 4);
                     String System_input = "";
+
                     if (System_num == 1)
+                    {
                         System_input = "가위";
+                    }
+
                     else if (System_num == 2)
+                    {
                         System_input = "바위";
+                    }
                     else if (System_num == 3)
-                    System_input = "보";
+                    {
+                        System_input = "보";
+                    }
 
                     if (user_input == "가위" && System_input == "가위")
                     {
-                        Drew++;
+                        Draw++;
                         ResultStr = "무승부";
                     }
+
                     else if (user_input == "가위" && System_input == "바위")
                     {
                         Lose++;
                         ResultStr = "User 패";
                     }
-                    else
+
+                    else if (user_input == "가위" && System_input == "보")
                     {
                         Win++;
                         ResultStr = "User 승";
                     }
-                }
-            }
-            catch
-            {
 
+                    if (user_input == "바위" && System_input == "가위")
+                    {
+                        Win++;
+                        ResultStr = "User 승";
+                    }
+
+                    else if (user_input == "바위" && System_input == "바위")
+                    {
+                        Draw++;
+                        ResultStr = "무승부";
+                    }
+
+                    else if (user_input == "바위" && System_input == "보")
+                    {
+                        Lose++;
+                        ResultStr = "User 패";
+                    }
+
+                    if (user_input == "보" && System_input == "가위")
+                    {
+                        Lose++;
+                        ResultStr = "User 패";
+                    }
+
+                    else if (user_input == "보" && System_input == "바위")
+                    {
+                        Win++;
+                        ResultStr = "User 승";
+                    }
+
+                    else if (user_input == "보" && System_input == "보")
+                    {
+                        Draw++;
+                        ResultStr = "무승부";
+                    }
+
+                    label2.Text = "User 는 ->" + user_input +
+                                      "\n\nSystem은 ->" + System_input +
+                                      "\n\n결과는 -> " + ResultStr;
+                    textBox1.Text = "";
+                    textBox1.Focus();
+                }
+
+                else
+                {
+                    Lose++;
+                    label2.Text = "입력값이 '가위, 바위, 보'\n" +
+                    "중 하나가 아니어서 패 처리합니다.";
+                }
+                label3.Text = "총전적 : " + Win + "승" + Draw + "무" + Lose + "패";
             }
+            catch(Exception ee)
+            {
+                label2.Text = ee.Message;
+            }
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }
