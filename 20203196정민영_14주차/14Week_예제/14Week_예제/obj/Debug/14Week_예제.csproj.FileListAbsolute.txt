@@ -1,0 +1,10 @@
+C:\Users\정민영\Desktop\14Week_예제\14Week_예제\bin\Debug\14Week_예제.exe.config
+C:\Users\정민영\Desktop\14Week_예제\14Week_예제\bin\Debug\14Week_예제.exe
+C:\Users\정민영\Desktop\14Week_예제\14Week_예제\bin\Debug\14Week_예제.pdb
+C:\Users\정민영\Desktop\14Week_예제\14Week_예제\obj\Debug\14Week_예제.csprojAssemblyReference.cache
+C:\Users\정민영\Desktop\14Week_예제\14Week_예제\obj\Debug\_14Week_예제.Form1.resources
+C:\Users\정민영\Desktop\14Week_예제\14Week_예제\obj\Debug\_14Week_예제.Properties.Resources.resources
+C:\Users\정민영\Desktop\14Week_예제\14Week_예제\obj\Debug\14Week_예제.csproj.GenerateResource.cache
+C:\Users\정민영\Desktop\14Week_예제\14Week_예제\obj\Debug\14Week_예제.csproj.CoreCompileInputs.cache
+C:\Users\정민영\Desktop\14Week_예제\14Week_예제\obj\Debug\14Week_예제.exe
+C:\Users\정민영\Desktop\14Week_예제\14Week_예제\obj\Debug\14Week_예제.pdb
